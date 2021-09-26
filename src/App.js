@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>Mi primer deploy</h1>
-      <p>Mi primera modificacion</p>
+      <p>Mi primera modificación.</p>
     </div>
   );
 }
